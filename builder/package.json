@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@types/node": "^17.0.31"
+  },
+  "name": "builder",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT"
+}
